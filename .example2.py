@@ -38,3 +38,4 @@ import pyautogui as p
 p.mouseInfo()
 
 mouseinfo.mouseInfo()
+
