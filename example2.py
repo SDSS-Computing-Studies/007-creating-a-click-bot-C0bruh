@@ -6,7 +6,7 @@ PyAutoGUI lets your Python scripts control the mouse and
 keyboard to automate interactions with other applications. 
 The API is designed to be as simple. 
 PyAutoGUI works on Windows, macOS, and Linux, and runs on Python 2 and 3.
-https://pyautogui.readthedocs.io/en/latest/index.html
+
 
 Once we install it, we can explore some of the functionality available
 in the pyautogui methods.  The documentation shows good information on 
